@@ -5,9 +5,13 @@ body {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
-  /* background-image: url(../src/assets/pexels-mitchell-luo-3694711.jpg);
-  background-size: cover; */
-  background-color: #FFFFFF;
+  background-image: url(../src/assets/pexels-moose-photos-1037992.jpg);
+  background-size: cover;
+  /* background-color: #FFFFFF; */
+}
+
+div:nth-child(5) > img.upper--top-img, div:nth-child(5) > img.upper--bottom-img {
+  margin: 8px 0px 0px 0px;
 }
 
 .nav--container {
@@ -33,30 +37,89 @@ body {
   margin: 22px 0px 22px 30px;
 }
 
-.upper--main-container {
+p {
 
+}
+
+.upper--main-container > div:nth-child(4) {
+  position: relative;
+  top: -12px;
+}
+
+.upper--main-container > div:nth-child(2) {
+  position: relative;
+  top: -5px;
+}
+
+.upper--main-container > div:nth-child(5) {
+  position: relative;
+  top: 6px;
+}
+
+.upper--main-container > div:nth-child(3){
+  position: relative;
+  top: 18px;
+}
+
+.upper--main-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding-top: 26px;
+  margin: auto;
+  width: 410px;
 }
 
 .upper--content {
-
+  position: relative;
+  width: 320px;
+  height: 56px;
+  left: -34px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 110%;
+  color: #222222;
+  margin: 0;
 }
 
 .upper--double-container {
-
+  display: flex;
+  flex-direction: column;
+  position: relative;
 }
 
 .upper--single-photo {
-
+  margin: 8px 8px 0px 0px;
 }
 
 .upper--single-photo-container {
-
+  position: relative;
+  top: 36px;
 }
 
 .upper--title {
-
+  position: relative;
+  width: 347px;
+  height: 40px;
+  left: -34px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 110%;
+  color: #000000;
+  margin: 32px 0 16px 0;
 }
 
 .upper--top-img {
-
+  margin: 8px 8px 0px 0px;
 }
+
+.upper--bottom-img {
+  margin: 8px 8px 0px 0px;
+}
+
+
+

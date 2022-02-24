@@ -1,6 +1,6 @@
 import React from 'react'
 
-function HeroPhoto (props) {
+function Hero (props) {
   return (
   <div className="upper--double-container">
     <img className="upper--top-img" src={props.image1} alt={props.alt1}></img>
@@ -9,4 +9,4 @@ function HeroPhoto (props) {
   )
 }
 
-export default HeroPhoto
+export default Hero
