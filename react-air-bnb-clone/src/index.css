@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  display: flex;
 }
 
 .nav--container {
@@ -10,12 +11,40 @@ body {
 }
 
 .main-container {
-  min-height: 100vh; 
-  min-width: 100vw;
-  margin: 0px;
+  height: 853px; 
+  width: 550px;
+  margin: 30px auto auto auto;
   padding: 0px;
 }
 
 .nav--air-bnb-logo {
   margin: 22px 0px 22px 30px;
+}
+
+.upper--main-container {
+
+}
+
+.upper--content {
+
+}
+
+.upper--double-container {
+
+}
+
+.upper--single-photo {
+
+}
+
+.upper--single-photo-container {
+
+}
+
+.upper--title {
+
+}
+
+.upper--top-img {
+
 }
