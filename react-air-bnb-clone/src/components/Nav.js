@@ -1,5 +1,5 @@
 import React from 'react'
-import air_bnb from "../src/assets/Vector.svg"
+import air_bnb from "../../src/assets/Vector.svg"
 
 function Nav () {
   return (
