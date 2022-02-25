@@ -7,7 +7,12 @@ body {
   justify-content: center;
   background-image: url(../src/assets/pexels-moose-photos-1037992.jpg);
   background-size: cover;
-  /* background-color: #FFFFFF; */
+}
+
+.card--container {
+  background-color: red;
+  height: 300px;
+  width: 176px;
 }
 
 div:nth-child(5) > img.upper--top-img, div:nth-child(5) > img.upper--bottom-img {
@@ -35,10 +40,6 @@ div:nth-child(5) > img.upper--top-img, div:nth-child(5) > img.upper--bottom-img 
 
 .nav--air-bnb-logo {
   margin: 22px 0px 22px 30px;
-}
-
-p {
-
 }
 
 .upper--main-container > div:nth-child(4) {
