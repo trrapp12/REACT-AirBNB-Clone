@@ -1,4 +1,5 @@
 import React from 'react'
+import star from '../assets/star_1.svg'
 
 
 function Card (props) {
@@ -11,11 +12,14 @@ function Card (props) {
           </div>
           <div className='card--info-bar'>
             <div className='card--status-line'>
-              <img src={props.src} alt={props.alt}></img>
-              <div className='card--info-amount'>{props.price}</div>
-              <div className='card--info-location'>{props.location}</div>
-              <div className='card--info-title'>{props.title}</div>
-              <div className='card--info-price'>{props.price}</div>
+              <div className='card--info-amount poppins-light'>
+              <img src={star} alt={props.alt}></img>
+                <span className="poppins-light">{props.rating}</span>
+                <span className="poppins-light"> {`(${props.reviewCount})`} • </span>
+                <span className='card--info-location poppins-light'>{props.location}</span> 
+              </div>              
+              <div className='card--info-title poppins-light'>{props.title}</div>
+              <div className='card--info-price poppins-bold'>{props.price} /person</div>
             </div>
           </div>
         </div>

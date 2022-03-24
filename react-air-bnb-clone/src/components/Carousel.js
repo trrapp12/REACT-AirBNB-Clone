@@ -14,7 +14,7 @@ function Carousel (props) {
         price = {item.price}
         img = {`../src/${item.coverImg}`}
         rating = {item.stats.rating}
-        count = {item.stats.reviewCount}
+        reviewCount = {item.stats.reviewCount}
         location = {item.location} 
         spots = {item.openSpots}
       />

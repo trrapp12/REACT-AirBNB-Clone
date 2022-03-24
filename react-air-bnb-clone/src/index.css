@@ -10,12 +10,10 @@ body {
 }
 
 .card--container {
- background-color: red;
  width: 100%;
 }
 
 .card--photo-container {
-  background-color: blue;
   width: 30%;
   margin: 1% 0 1%; 
 }
@@ -23,7 +21,6 @@ body {
 .carousel--container {
   display: flex;
   flex-direction: row;
-  gap: 10px;
   padding: 1em;
 }
 
@@ -41,6 +38,27 @@ body {
   width: 176px;
   left: 36px;
   top: 765px;
+}
+
+.poppins-light {
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 13px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+}
+
+.poppins-bold {
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 13px;
+  letter-spacing: 0em;
+  text-align: left; 
 }
 
 div:nth-child(5) > img.upper--top-img, div:nth-child(5) > img.upper--bottom-img {
