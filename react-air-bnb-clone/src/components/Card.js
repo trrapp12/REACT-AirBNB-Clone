@@ -1,26 +1,26 @@
 import React from 'react'
-import Info from './Info'
 
-class Card extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {};
-  }
 
-  render() {
+function Card (props) {
     return (
       <div className='card--container'>
         <div className='card--photo-container'>
-          <img src={} alt={}></img>
+          <img src={props.img} alt={props.alt}></img>
           <div className='card--status-flag'>
-            <p>{}</p>
+            <p>{props.paragraph}</p>
           </div>
-          <Info />
+          <div className='card--info-bar'>
+            <div className='card--status-line'>
+              <img src={props.src} alt={props.alt}></img>
+              <div className='card--info-amount'>{props.price}</div>
+              <div className='card--info-location'>{props.location}</div>
+              <div className='card--info-title'>{props.title}</div>
+              <div className='card--info-price'>{props.price}</div>
+            </div>
+          </div>
         </div>
-
       </div>
     )
-  }
-}
+} 
 
 export default Card;

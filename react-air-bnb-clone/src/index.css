@@ -10,9 +10,14 @@ body {
 }
 
 .card--container {
-  background-color: red;
-  height: 300px;
-  width: 176px;
+ background-color: red;
+ width: 100%;
+}
+
+.card--photo-container {
+  background-color: blue;
+  width: 30%;
+  margin: 1% 0 1%; 
 }
 
 div:nth-child(5) > img.upper--top-img, div:nth-child(5) > img.upper--bottom-img {
@@ -82,7 +87,7 @@ div:nth-child(5) > img.upper--top-img, div:nth-child(5) > img.upper--bottom-img 
   font-size: 16px;
   line-height: 110%;
   color: #222222;
-  margin: 0;
+  margin: 0 0 49px 0;
 }
 
 .upper--double-container {

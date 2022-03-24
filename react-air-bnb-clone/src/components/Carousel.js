@@ -3,8 +3,13 @@ import Card from './Card'
 
 function Carousel () {
   return (
-    <Card />
-    <Card />
-    <Card />
+    <>
+      <Card />
+      <Card />
+      <Card />
+    </>
+
   )
 }
+
+export default Carousel
