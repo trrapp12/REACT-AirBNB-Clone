@@ -4,6 +4,9 @@
 
 *Project completed as part of the [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) curriculum. Instructor, Bob Ziroll*
 
+<br>
+<br>
+
 ---
 
 <br>
