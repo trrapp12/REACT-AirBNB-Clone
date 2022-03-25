@@ -38,6 +38,7 @@ A basic static page built using React.
 ### Project v1.0 demonstrates the following:
 ---
 
+- [x] Import JSON data as props
 - [x] Use of map() to iterate of array of items to create JSX elements
 - [x] Use of keys with map()
 - [x] Use of props
