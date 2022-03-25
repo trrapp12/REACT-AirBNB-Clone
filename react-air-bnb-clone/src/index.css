@@ -15,14 +15,29 @@ body {
 }
 
 .card--photo-container {
-  width: 30%;
+  position: relative;
   margin: 1% 0 1%; 
+  width: 30%;
 }
 
 .carousel--container {
   display: flex;
   flex-direction: row;
   padding: 1em;
+}
+
+.card--badge-status {
+  position: absolute;
+  background-color: white;
+  border-radius: 5px;
+  min-width: max-content;
+  padding: 4px;
+  font-size: 12px;
+  top: 10px;
+  left: 10px;
+  color: gray;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
 }
 
 .card--large-photo {
@@ -34,11 +49,25 @@ body {
   height: 12.7em;
 }
 
+.card--info-amount {
+  width: 90%;
+  margin: 0 0 10px 0;
+}
+
 .card--info-bar {
   height: 58px;
   width: 176px;
   left: 36px;
   top: 765px;
+}
+
+.card--info-title {
+  width: 90%;
+  margin: 0 0 5px 0;
+}
+
+.card--img-star {
+  margin-right: 1px;
 }
 
 .poppins-light {
