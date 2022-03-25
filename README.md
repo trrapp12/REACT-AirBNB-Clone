@@ -31,10 +31,9 @@ https://user-images.githubusercontent.com/11747875/160059784-3c2a4b64-21cb-4288-
 
 ### Description:
 
-
 ---
 
-A basic static page built using React. 
+An Air Bnb Experiences Clone which imports JSON, iterates through it with .map(), and creates JSX dynamically multiple data points and dynamically adding JSX elements with JavaScript logic.
 
 ### Project v1.0 demonstrates the following:
 ---
@@ -52,10 +51,16 @@ A basic static page built using React.
 - [x] Use of import and export statements
 - [x] Use of local server with webpack
 
+<br>
+<br>
+
 ### Project published at: 
 ---
 
 [Trevor-Rapp-Electronic-Business-Card](https://trrapp12.github.io/REACT-AirBNB-Clone/)
+
+<br>
+<br>
 
 ### More Information:
 ---
