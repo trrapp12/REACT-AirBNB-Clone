@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/11747875/160059784-3c2a4b64-21cb-4288-
 
 An Air Bnb Experiences Clone which imports JSON, iterates through it with .map(), and creates JSX dynamically multiple data points and dynamically adding JSX elements with JavaScript logic.
 
-### Project v1.0 demonstrates the following:
+### REACT-AirBNB-Clone v1.0 demonstrates the following:
 ---
 
 - [x] Import JSON data as props
@@ -60,7 +60,7 @@ An Air Bnb Experiences Clone which imports JSON, iterates through it with .map()
 <br>
 <br>
 
-### Project published at: 
+### REACT-AirBNB-Clone published at: 
 ---
 
 [Trevor-Rapp-Electronic-Business-Card](https://trrapp12.github.io/REACT-AirBNB-Clone/)
