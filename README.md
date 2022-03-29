@@ -76,13 +76,9 @@ An Air Bnb Experiences Clone which imports JSON, iterates through it with .map()
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
+<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
