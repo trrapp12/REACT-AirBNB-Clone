@@ -4,16 +4,13 @@
 
 *Project completed as part of the [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) curriculum. Instructor, Bob Ziroll*
 
-<br>
-
----
-
-<br>
-
 https://user-images.githubusercontent.com/11747875/160059784-3c2a4b64-21cb-4288-b1f4-21ffa1e4a86e.mp4
+
+<br>
 
 [![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/REACT-AirBNB-Clone/)
 
+<br>
 <br>
 
 ---
@@ -26,24 +23,22 @@ https://user-images.githubusercontent.com/11747875/160059784-3c2a4b64-21cb-4288-
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
-<br>
 
 ---
 
-<br>
 <br>
 
 ### Description:
 
----
+> Build something 100 people love, not something 100 million people kind of like
+>
+> -- Brian Chesky, CEO AirBnB
 
 An Air Bnb Experiences Clone which imports JSON, iterates through it with .map(), and creates JSX dynamically multiple data points and dynamically adding JSX elements with JavaScript logic.
 
-<br>
-<br>
+--- 
 
-### REACT-AirBNB-Clone v1.0 demonstrates the following:
----
+### THIS PROJECT DEMONSTRATES:
 
 - [x] Import JSON data as props
 - [x] Use of map() to iterate of array of items to create JSX elements
@@ -58,19 +53,26 @@ An Air Bnb Experiences Clone which imports JSON, iterates through it with .map()
 - [x] Use of import and export statements
 - [x] Use of local server with webpack
 
-<br>
-<br>
-
-### REACT-AirBNB-Clone published at: 
 ---
 
-[REACT-AirBNB-Clone](https://trrapp12.github.io/REACT-AirBNB-Clone/)
+### CHALLENGES I OVERCAME:
 
-<br>
-<br>
-
-### More Information:
+* Learning how to conceptualize props and passing props from parent to child
 ---
+
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
+
+- [X] additional elements in the graphic design
+
+---
+
+### ATTRIBUTIONS:
+
+majority of content provided by Bob Ziroll as part of the [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) curriculum.
+
+---
+
+### YOU CAN FIND ME AT:
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
