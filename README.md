@@ -66,7 +66,7 @@ An Air Bnb Experiences Clone which imports JSON, iterates through it with .map()
 ### REACT-AirBNB-Clone published at: 
 ---
 
-[Trevor-Rapp-Electronic-Business-Card](https://trrapp12.github.io/REACT-AirBNB-Clone/)
+[REACT-AirBNB-Clone](https://trrapp12.github.io/REACT-AirBNB-Clone/)
 
 <br>
 <br>
