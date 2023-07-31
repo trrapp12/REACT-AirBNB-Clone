@@ -5,12 +5,10 @@
 *Project completed as part of the [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) curriculum. Instructor, Bob Ziroll*
 
 <br>
-<br>
 
 ---
 
 <br>
-
 
 https://user-images.githubusercontent.com/11747875/160059784-3c2a4b64-21cb-4288-b1f4-21ffa1e4a86e.mp4
 
