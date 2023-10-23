@@ -41,9 +41,11 @@ https://user-images.githubusercontent.com/11747875/160059784-3c2a4b64-21cb-4288-
 
 ### QUICKSTART GUIDE
 
-To use the app simply click on the ```View Project``` button or visit <a href="https://trrapp12.github.io/survey-form/">https://trrapp12.github.io/survey-form/</a>. 
+To use the app simply click on the ```View Project``` button or visit <a href="https://trrapp12.github.io/REACT-AirBNB-Clone/">https://trrapp12.github.io/REACT-AirBNB-Clone/</a>. 
 
 <br/>
+
+---
 
 ### THIS PROJECT DEMONSTRATES:
 
@@ -60,11 +62,16 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 - [x] Use of import and export statements
 - [x] Use of local server with webpack
 
+<br/>
+
 ---
 
 ### CHALLENGES I OVERCAME:
 
 * Learning how to conceptualize props and passing props from parent to child
+
+<br/>
+
 ---
 
 ### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
@@ -75,7 +82,9 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 
 ### ATTRIBUTIONS:
 
-majority of content provided by Bob Ziroll as part of the [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) curriculum.
+* The majority of content provided by Bob Ziroll as part of the [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) curriculum.
+
+* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ---
 
@@ -83,9 +92,8 @@ majority of content provided by Bob Ziroll as part of the [The Frontend Develope
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
-<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 
 
